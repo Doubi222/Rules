@@ -1,0 +1,7 @@
+# 1Password
+DOMAIN-SUFFIX,1password.com,DIRECT
+DOMAIN-SUFFIX,agilebits.com,DIRECT
+
+# PayPal
+DOMAIN-KEYWORD,PayPal,DIRECT
+DOMAIN-SUFFIX,paypal.com,DIRECT
