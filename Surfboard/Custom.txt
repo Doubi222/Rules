@@ -1,3 +1,7 @@
+# Google
+DOMAIN-SUFFIX,mtalk.google.com,Proxy
+DOMAIN-SUFFIX,services.googleapis.cn,Proxy
+
 # 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,agilebits.com,DIRECT
