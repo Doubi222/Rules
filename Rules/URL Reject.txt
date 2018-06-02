@@ -1,0 +1,29 @@
+// URL-REGEX
+^http://notice.send-anywhere.com/banner - reject
+^http://\w+.cloudfront.net/banner - reject
+^https?://www.g-cores.com/api/app_start_pages/ - reject
+^https?://(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$) - reject
+
+// 10010
+^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
+^https?://m.client.10010.com/uniAdmsInterface/getHomePageAd - reject
+
+// Hujiang
+^https?://u8.hujiang.com/v3/getAd - reject
+^https?://u8.hujiang.com/v2/logbatch - reject
+
+// iQIYI
+^https?://iface2.iqiyi.com/control/3.0/init_login? - reject
+^https?://iface2.iqiyi.com/views_pop/3.0/pop_control? - reject
+
+// Manhuaren
+^http://adsapi.manhuaren.com - reject
+^http://mangaapi.manhuaren.com/v1/public/getAds? - reject
+^http://mangaapi.manhuaren.com/v1/public/getAditem? - reject
+^http://mangaapi.manhuaren.com/v1/manga/recommend? - reject
+^http://mangaapi.manhuaren.com/v1/public/getGiftActivity? - reject
+^http://mangaapi.manhuaren.com/v1/public/getStartPageAds2? - reject
+^http://mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy? - reject
+^http://mangaapi.manhuaren.com/v1/public/getRecommendedGame? - reject
+^http://mangaapi.manhuaren.com/v1/manga/getMangaPromotion? - reject
+^http://mangaapi.manhuaren.com/v2/manga/getMangaPromotionActivity? - reject
