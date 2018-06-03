@@ -1,10 +1,7 @@
-# Google Play Store
-DOMAIN-SUFFIX,services.googleapis.cn,Proxy
-
+[Rule]
 # 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,agilebits.com,DIRECT
-
 # PayPal
-DOMAIN-SUFFIX,paypal.com,DIRECT
 DOMAIN-KEYWORD,paypal,DIRECT
+DOMAIN-SUFFIX,paypal.com,DIRECT
