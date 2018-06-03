@@ -1,5 +1,4 @@
-# Google
-DOMAIN-SUFFIX,mtalk.google.com,Proxy
+# Google Play Store
 DOMAIN-SUFFIX,services.googleapis.cn,Proxy
 
 # 1Password
