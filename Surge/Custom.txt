@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,yuedu.iqiyi.com,REJECT-TINYGIF
 URL-REGEX,^https?://.+/videos/other/.+,REJECT-TINYGIF
 # PayPal
 USER-AGENT,PayPal*,DIRECT
-DOMAIN-KEYWORD,PayPal,DIRECT
+DOMAIN-KEYWORD,paypal,DIRECT
 DOMAIN-SUFFIX,paypal.com,DIRECT
 # YouTube
 DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT-TINYGIF
