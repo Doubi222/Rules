@@ -3,6 +3,7 @@
 ^http://\w+.cloudfront.net/banner - reject
 ^https?://www.g-cores.com/api/app_start_pages/ - reject
 ^https?://(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$) - reject
+^https?://dl\.app\.gtja\.com/.+\d+\.jpg$ - reject
 
 // 10010
 ^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
