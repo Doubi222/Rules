@@ -1,1 +1,2 @@
 [Rule]
+DOMAIN-SUFFIX,egame.qq.com,DIRECT
