@@ -21,10 +21,10 @@
 ^http://adsapi.manhuaren.com - reject
 ^http://mangaapi.manhuaren.com/v1/public/getAds? - reject
 ^http://mangaapi.manhuaren.com/v1/public/getAditem? - reject
-^http://mangaapi.manhuaren.com/v1/manga/recommend? - reject
 ^http://mangaapi.manhuaren.com/v1/public/getGiftActivity? - reject
 ^http://mangaapi.manhuaren.com/v1/public/getStartPageAds2? - reject
 ^http://mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy? - reject
 ^http://mangaapi.manhuaren.com/v1/public/getRecommendedGame? - reject
+^http://mangaapi.manhuaren.com/v1/manga/recommend? - reject
 ^http://mangaapi.manhuaren.com/v1/manga/getMangaPromotion? - reject
 ^http://mangaapi.manhuaren.com/v2/manga/getMangaPromotionActivity? - reject
