@@ -1,2 +1,3 @@
 [Rule]
 DOMAIN-SUFFIX,egame.qq.com,DIRECT
+DOMAIN-SUFFIX,tieba.baidu.com,DIRECT
