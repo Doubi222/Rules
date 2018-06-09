@@ -5,6 +5,10 @@
 ^https?://(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$) - reject
 ^https?://dl\.app\.gtja\.com/.+\d+\.jpg$ - reject
 
+// 10086
+^http://search.10086.cn/log_collecter/collecter.do? - reject
+^https?://clientaccess.10086.cn/biz-orange/DN/dropsAdverService/getDropsAdverNew - reject
+
 // 10010
 ^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
 ^https?://m.client.10010.com/uniAdmsInterface/getHomePageAd - reject
