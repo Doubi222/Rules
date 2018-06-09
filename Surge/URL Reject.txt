@@ -5,6 +5,10 @@
 ^https?://(e|m)\..+/((uu|oo)\.php.+|\d+\.x?html\?$) - reject
 ^https?://dl\.app\.gtja\.com/.+\d+\.jpg$ - reject
 
+// Douyu
+^https?://capi.douyucdn.cn/api/v1/getclientface?client_sys=ios
+^https?://capi.douyucdn.cn/api/v1/getStartSend?client_sys=ios
+
 // 10010
 ^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
 ^https?://m.client.10010.com/uniAdmsInterface/getHomePageAd - reject
