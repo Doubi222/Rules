@@ -1,3 +1,5 @@
 [Rule]
 DOMAIN-SUFFIX,egame.qq.com,DIRECT
 DOMAIN-SUFFIX,tieba.baidu.com,DIRECT
+DOMAIN-SUFFIX,itunes.apple.com,Proxy
+DOMAIN-SUFFIX,mzstatic.com,Proxy
