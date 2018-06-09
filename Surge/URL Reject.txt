@@ -7,7 +7,7 @@
 
 // 10086
 ^http://search.10086.cn/log_collecter/collecter.do? - reject
-^https?://clientaccess.10086.cn/biz-orange/DN/dropsAdverService/getDropsAdverNew - reject
+# ^https?://clientaccess.10086.cn/biz-orange/DN/dropsAdverService/getDropsAdverNew - reject
 
 // 10010
 ^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
