@@ -1,6 +1,7 @@
 [Rule]
 # Custom
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
+DOMAIN-SUFFIX,translate.google.cn,Proxy
 DOMAIN-SUFFIX,update-http.cdn-apple.com,Proxy
 DOMAIN-SUFFIX,i.snssdk.com,REJECT-TINYGIF
 # 1Password
