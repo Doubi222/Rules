@@ -2,7 +2,7 @@
 # Custom
 DOMAIN-SUFFIX,i.snssdk.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,img.miaoceshi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,img.wsf-gz.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,google.cn,Proxy
