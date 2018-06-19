@@ -4,10 +4,7 @@ DOMAIN-SUFFIX,i.snssdk.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,img.miaoceshi.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,img.wsf-gz.cn,REJECT-TINYGIF
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
-<<<<<<< HEAD
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
-=======
->>>>>>> d247de18136fcc307201ca72db25c9a0403fd691
 DOMAIN-SUFFIX,google.cn,Proxy
 DOMAIN-SUFFIX,update-http.cdn-apple.com,Proxy
 # 1Password
