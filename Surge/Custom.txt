@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,google.cn,Proxy
-DOMAIN-SUFFIX,update-http.cdn-apple.com,Proxy
+DOMAIN-SUFFIX,updates-http.cdn-apple.com,Proxy
 # 1Password
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,agilebits.com,DIRECT
