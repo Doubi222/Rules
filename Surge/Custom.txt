@@ -1,39 +1,12 @@
 [Rule]
 # Custom
+DOMAIN,e.crashlytics.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,i.snssdk.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,fuckidiot.com,DIRECT
 DOMAIN-SUFFIX,hupu.com,DIRECT
+DOMAIN-SUFFIX,paypal.com,DIRECT
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
-DOMAIN-SUFFIX,google.cn,Proxy
-DOMAIN-SUFFIX,updates-http.cdn-apple.com,Proxy
-# 1Password
-DOMAIN-SUFFIX,1password.com,DIRECT
-DOMAIN-SUFFIX,agilebits.com,DIRECT
-# iQIYI
-DOMAIN-SUFFIX,a.ckm.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,afp.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,api.cupid.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,c.uaa.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,cloudpush.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,cm.passport.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,cmts.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,gamecenter.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,mbdlog.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,msg.video.qiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,msg2.video.qiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,msga.cupid.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,policy.video.iqiyi.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,yuedu.iqiyi.com,REJECT-TINYGIF
-URL-REGEX,^https?://.+/videos/other/.+,REJECT-TINYGIF
-# PayPal
-USER-AGENT,PayPal*,DIRECT
-DOMAIN-KEYWORD,paypal,DIRECT
-DOMAIN-SUFFIX,paypal.com,DIRECT
-# YouTube
-DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,youtube.112.2o7.net,REJECT-TINYGIF
 # ss-local
