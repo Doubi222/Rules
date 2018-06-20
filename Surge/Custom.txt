@@ -1,7 +1,6 @@
 [Rule]
 # Custom
 DOMAIN-SUFFIX,i.snssdk.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,img.miaoceshi.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,fuckidiot.com,DIRECT
 DOMAIN-SUFFIX,hupu.com,DIRECT
