@@ -9,4 +9,5 @@ DOMAIN-SUFFIX,hupu.com,DIRECT
 DOMAIN-SUFFIX,paypal.com,DIRECT
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
+DOMAIN-SUFFIX,google.cn,Proxy
 # ss-local
