@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,dafork.com,DIRECT
 DOMAIN-SUFFIX,fuckidiot.com,DIRECT
 DOMAIN-SUFFIX,hupu.com,DIRECT
+DOMAIN-SUFFIX,manhuaren.com,DIRECT
 DOMAIN-SUFFIX,paypal.com,DIRECT
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
