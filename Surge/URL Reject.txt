@@ -11,13 +11,13 @@
 ^https?://iface2.iqiyi.com/views_pop/3.0/pop_control? - reject
 
 // Manhuaren
-^http://tel.mangaapi.manhuaren.com/v1/public/getAds? - reject
-^http://tel.mangaapi.manhuaren.com/v1/public/getAditem? - reject
-^http://tel.mangaapi.manhuaren.com/v1/public/getStartPageAds2? - reject
-^http://tel.mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy? - reject
-^http://tel.mangaapi.manhuaren.com/v1/public/getRecommendedGame? - reject
-^http://teladsapi.manhuaren.com/api - reject
+^https?://tel.mangaapi.manhuaren.com/v1/public/getAds? - reject
+^https?://tel.mangaapi.manhuaren.com/v1/public/getAditem? - reject
+^https?://tel.mangaapi.manhuaren.com/v1/public/getStartPageAds2? - reject
+^https?://tel.mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy? - reject
+^https?://tel.mangaapi.manhuaren.com/v1/public/getRecommendedGame? - reject
+^https?://teladsapi.manhuaren.com/api - reject
 
-// sendanywhere
-^http://\w+.cloudfront.net/banner - reject
-^http://notice.send-anywhere.com/banner - reject
+// Send Anywhere
+^https?://\w+.cloudfront.net/banner - reject
+^https?://notice.send-anywhere.com/banner - reject
