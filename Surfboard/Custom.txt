@@ -1,4 +1,5 @@
 [Rule]
+DOMAIN-KEYWORD,adservice,REJECT
 DOMAIN-KEYWORD,googleads,REJECT
 DOMAIN-SUFFIX,ads.google.com,REJECT
 DOMAIN-SUFFIX,afd.l.google.com,REJECT
