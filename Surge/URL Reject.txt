@@ -17,6 +17,3 @@
 ^http://tel.mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy? - reject
 ^http://tel.mangaapi.manhuaren.com/v1/public/getRecommendedGame? - reject
 ^http://teladsapi.manhuaren.com/api - reject
-
-// sendanywhere
-^http://notice.send-anywhere.com/banner - reject
