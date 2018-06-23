@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,doubleclick.com,REJECT
 DOMAIN-SUFFIX,doubleclick.net,REJECT
 DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,googlecommerce.com,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googletagmanager.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN-SUFFIX,googletakes.com,REJECT
@@ -32,3 +33,4 @@ DOMAIN-SUFFIX,itunes.apple.com,Proxy
 DOMAIN-SUFFIX,mzstatic.com,Proxy
 DOMAIN-SUFFIX,pushbullet.com,Proxy
 DOMAIN-SUFFIX,send-anywhere.com,Proxy
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
