@@ -1,6 +1,5 @@
 [Rule]
 # Custom
-DOMAIN-SUFFIX,crashlytics.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,i.snssdk.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,1password.com,DIRECT
