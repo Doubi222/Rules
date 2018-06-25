@@ -31,10 +31,12 @@ DOMAIN-SUFFIX,tieba.baidu.com,DIRECT
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,gstatic.cn,Proxy
 DOMAIN-SUFFIX,itunes.apple.com,Proxy
+DOMAIN-SUFFIX,ku.shanga.co,Proxy
 DOMAIN-SUFFIX,mblservices.org,Proxy
 DOMAIN-SUFFIX,mobilism.org,Proxy
 DOMAIN-SUFFIX,mqtt-gw.pushnotifs.com,Proxy
 DOMAIN-SUFFIX,mzstatic.com,Proxy
 DOMAIN-SUFFIX,pushbullet.com,Proxy
 DOMAIN-SUFFIX,send-anywhere.com,Proxy
+DOMAIN-SUFFIX,walli.quosmos.com,Proxy
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
