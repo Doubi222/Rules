@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,pagead.google.com,REJECT
 DOMAIN-SUFFIX,pagead.l.google.com,REJECT
 DOMAIN-SUFFIX,pagead-tpc.l.google.com,REJECT
 DOMAIN-SUFFIX,partnerad.l.google.com,REJECT
+DOMAIN-SUFFIX,baike.baidu.com,DIRECT
 DOMAIN-SUFFIX,egame.qq.com,DIRECT
 DOMAIN-SUFFIX,tieba.baidu.com,DIRECT
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
