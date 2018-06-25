@@ -19,8 +19,8 @@ DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googletagmanager.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN-SUFFIX,googletakes.com,REJECT
-DOMAIN-SUFFIX,notice.send-anywhere.com,REJECT
 DOMAIN-SUFFIX,mobileads.google.com,REJECT
+DOMAIN-SUFFIX,notice.send-anywhere.com,REJECT
 DOMAIN-SUFFIX,pagead.google.com,REJECT
 DOMAIN-SUFFIX,pagead.l.google.com,REJECT
 DOMAIN-SUFFIX,pagead-tpc.l.google.com,REJECT
