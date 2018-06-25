@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,partnerad.l.google.com,REJECT
 DOMAIN-SUFFIX,baike.baidu.com,DIRECT
 DOMAIN-SUFFIX,egame.qq.com,DIRECT
 DOMAIN-SUFFIX,tieba.baidu.com,DIRECT
+DOMAIN-SUFFIX,akamaized.net,Proxy
+DOMAIN-SUFFIX,crittercism.com,Proxy
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,gstatic.cn,Proxy
 DOMAIN-SUFFIX,itunes.apple.com,Proxy
@@ -36,7 +38,9 @@ DOMAIN-SUFFIX,mblservices.org,Proxy
 DOMAIN-SUFFIX,mobilism.org,Proxy
 DOMAIN-SUFFIX,mqtt-gw.pushnotifs.com,Proxy
 DOMAIN-SUFFIX,mzstatic.com,Proxy
+DOMAIN-SUFFIX,nintendo.com,Proxy
 DOMAIN-SUFFIX,pushbullet.com,Proxy
 DOMAIN-SUFFIX,send-anywhere.com,Proxy
+DOMAIN-SUFFIX,supermariorun.com,Proxy
 DOMAIN-SUFFIX,walli.quosmos.com,Proxy
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
