@@ -1,6 +1,7 @@
 [Rule]
 # Custom
 DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,taplytics.com,REJECT-TINYGIF
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,dafork.com,DIRECT
 DOMAIN-SUFFIX,fuckidiot.com,DIRECT
