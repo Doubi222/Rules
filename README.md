@@ -1,2 +1,2 @@
-# Surge
+# Rules
 Surge / Surfboard Rules 
