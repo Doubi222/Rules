@@ -1,3 +1,8 @@
+// Google HTTPS Jump
+^https?://(www.)?g.cn https://www.google.com.sg 302
+^https?://(www.)?google.cn https://www.google.com.sg 302
+^https?://(www.)?google.cn/search https://www.google.com.sg/search 307
+
 // 10010
 ^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
 ^https?://m.client.10010.com/uniAdmsInterface/getHomePageAd - reject
@@ -21,3 +26,8 @@
 // Send Anywhere
 ^https?://\w+.cloudfront.net/banner - reject
 ^https?://notice.send-anywhere.com/banner - reject
+
+// Wiki
+^https://zh.(m.)?wikipedia.org/(zh-hans|zh-sg|zh-cn|zh(?=/)) http://www.wikiwand.com/zh 302
+^https://zh.(m.)?wikipedia.org/zh-[a-zA-Z]{2,} http://www.wikiwand.com/zh-hant 302
+^https://(\w*).(m.)?wikipedia.org/wiki http://www.wikiwand.com/$1 302
