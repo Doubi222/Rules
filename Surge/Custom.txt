@@ -2,13 +2,13 @@
 # Custom
 DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,taplytics.com,REJECT-TINYGIF
-DOMAIN-SUFFIX,1password.com,DIRECT
-DOMAIN-SUFFIX,dafork.com,DIRECT
-DOMAIN-SUFFIX,fuckidiot.com,DIRECT
-DOMAIN-SUFFIX,hupu.com,DIRECT
-DOMAIN-SUFFIX,manhuaren.com,DIRECT
-DOMAIN-SUFFIX,paypal.com,DIRECT
-DOMAIN-SUFFIX,paypalobjects.com,DIRECT
+DOMAIN-SUFFIX,1password.com,Direct
+DOMAIN-SUFFIX,dafork.com,Direct
+DOMAIN-SUFFIX,fuckidiot.com,Direct
+DOMAIN-SUFFIX,hupu.com,Direct
+DOMAIN-SUFFIX,manhuaren.com,Direct
+DOMAIN-SUFFIX,paypal.com,Direct
+DOMAIN-SUFFIX,paypalobjects.com,Direct
 USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,google.cn,Proxy
