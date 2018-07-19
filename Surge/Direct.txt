@@ -1,0 +1,6 @@
+DOMAIN-KEYWORD,1password,Direct
+DOMAIN-KEYWORD,paypal,Direct
+DOMAIN-SUFFIX,dafork.com,Direct
+DOMAIN-SUFFIX,fuckidiot.com,Direct
+DOMAIN-SUFFIX,hupu.com,Direct
+DOMAIN-SUFFIX,manhuaren.com,Direct
