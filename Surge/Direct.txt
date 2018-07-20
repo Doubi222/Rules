@@ -1,4 +1,3 @@
-DOMAIN-KEYWORD,1password,Direct
 DOMAIN-KEYWORD,paypal,Direct
 DOMAIN-SUFFIX,dafork.com,Direct
 DOMAIN-SUFFIX,fuckidiot.com,Direct
