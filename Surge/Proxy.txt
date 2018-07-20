@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,1password.com,Proxy
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,google.cn,Proxy
 DOMAIN-SUFFIX,gstatic.cn,Proxy
