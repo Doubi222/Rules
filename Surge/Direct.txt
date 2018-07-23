@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,1password.com,Direct
 DOMAIN-SUFFIX,dafork.com,Direct
 DOMAIN-SUFFIX,fuckidiot.com,Direct
 DOMAIN-SUFFIX,hupu.com,Direct
