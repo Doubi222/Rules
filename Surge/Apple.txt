@@ -1,1 +1,1 @@
-USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy // Software Update
+USER-AGENT,$%7BPRODUCT_NAME%7D/$*,Proxy
