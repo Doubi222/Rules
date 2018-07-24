@@ -6,7 +6,7 @@
 // Wiki
 ^https?://zh.(m.)?wikipedia.org/wiki https://www.wikiwand.com/zh-hans 302
 ^https?://(\w*(-\w*)?(-\w*)?).(m.)?wikipedia.org/wiki https://www.wikiwand.com/$1 302
-^https?://zh.(m.)?wikipedia.org/(zh-cn|zh-my|zh-sg|zh(?=/)) https://www.wikiwand.com/zh-hans 302
+^https?://zh.(m.)?wikipedia.org/(zh-hans|zh-cn|zh-my|zh-sg|zh(?=/)) https://www.wikiwand.com/zh-hans 302
 ^https?://zh.(m.)?wikipedia.org/zh-[a-zA-Z]{2,} https://www.wikiwand.com/zh-hant 302
 
 // 10010
