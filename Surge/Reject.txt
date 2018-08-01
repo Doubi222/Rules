@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,js.dkqapp.cn,REJECT-TINYGIF
+DOMAIN-SUFFIX,rtbapi.douyucdn.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,startappservice.com,REJECT
 DOMAIN-SUFFIX,taplytics.com,REJECT-TINYGIF
