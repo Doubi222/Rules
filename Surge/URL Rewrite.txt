@@ -13,9 +13,6 @@
 ^https?://m.client.10010.com/uniAdmsInterface/getWelcomeAd - reject
 ^https?://m.client.10010.com/uniAdmsInterface/getHomePageAd - reject
 
-// Douyu
-^https?://rtbapi.douyucdn.cn/japi/sign/app/getinfo - reject
-
 // Hujiang
 ^https?://u8.hujiang.com/v2/logbatch - reject
 ^https?://u8.hujiang.com/v3/getAd - reject

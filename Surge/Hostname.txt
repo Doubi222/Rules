@@ -1,1 +1,1 @@
-*.wikipedia.org, iface2.iqiyi.com, m.client.10010.com, rtbapi.douyucdn.cn, u8.hujiang.com, www.google.com.hk
+*.wikipedia.org, iface2.iqiyi.com, m.client.10010.com, u8.hujiang.com, www.google.com.hk
