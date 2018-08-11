@@ -1,5 +1,3 @@
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,dmm.co.jp,Proxy
-DOMAIN-SUFFIX,google.cn,Proxy
-DOMAIN-SUFFIX,gstatic.cn,Proxy
 DOMAIN-SUFFIX,wikiwand.com,Proxy
