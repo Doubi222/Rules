@@ -1,4 +1,7 @@
-// Google HTTPS Jump
+// Bing
+^https?://cn.bing.com https://www.bing.com 302
+
+// Google
 ^https?://(www.)?g.cn https://www.google.com.sg 302
 ^https?://(www.)?google.cn https://www.google.com.sg 302
 ^https?://(www.)?google.com.hk https://www.google.com.sg 302
