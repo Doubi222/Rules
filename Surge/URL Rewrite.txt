@@ -20,10 +20,6 @@
 ^https?://u8.hujiang.com/v2/logbatch - reject
 ^https?://u8.hujiang.com/v3/getAd - reject
 
-// iQIYI
-^https?://iface2.iqiyi.com/control/3.0/init_login - reject
-^https?://iface2.iqiyi.com/views_pop/3.0/pop_control - reject
-
 // Manhuaren
 ^https?://adsapi.manhuaren.com/api - reject
 ^https?://mangaapi.manhuaren.com/v1/public/getAds - reject
@@ -31,7 +27,3 @@
 ^https?://mangaapi.manhuaren.com/v1/public/getStartPageAds2 - reject
 ^https?://mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy - reject
 ^https?://mangaapi.manhuaren.com/v1/public/getRecommendedGame - reject
-
-// Send Anywhere
-^https?://\w+.cloudfront.net/banner - reject
-^https?://notice.send-anywhere.com/banner - reject
