@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,1password.com,Direct
 DOMAIN-SUFFIX,cdndm5.com,Direct
 DOMAIN-SUFFIX,dafork.com,Direct
-DOMAIN-SUFFIX,fuckidiot.com,Direct
 DOMAIN-SUFFIX,hupu.com,Direct
 DOMAIN-SUFFIX,manhuaren.com,Direct
 DOMAIN-SUFFIX,paypal.com,Direct
