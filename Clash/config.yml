@@ -1,26 +1,26 @@
-# HTTP ´úÀí¶Ë¿Ú
+# HTTP ä»£ç†ç«¯å£
 port: 7890
 
-# SOCKS5 ´úÀí¶Ë¿Ú
+# SOCKS5 ä»£ç†ç«¯å£
 socks-port: 7891
 
-# Linux ºÍ macOS µÄ redir ´úÀí¶Ë¿Ú
+# Linux å’Œ macOS çš„ redir ä»£ç†ç«¯å£
 redir-port: 7892
 
-# ÔÊÐí¾ÖÓòÍøµÄÁ¬½Ó£¨¿ÉÓÃÀ´¹²Ïí´úÀí£©
+# å…è®¸å±€åŸŸç½‘çš„è¿žæŽ¥ï¼ˆå¯ç”¨æ¥å…±äº«ä»£ç†ï¼‰
 allow-lan: false
 
-# ¹æÔòÄ£Ê½£ºRule£¨¹æÔò£© / Global£¨È«¾Ö´úÀí£©/ Direct£¨È«¾ÖÖ±Á¬£©
+# è§„åˆ™æ¨¡å¼ï¼šRuleï¼ˆè§„åˆ™ï¼‰ / Globalï¼ˆå…¨å±€ä»£ç†ï¼‰/ Directï¼ˆå…¨å±€ç›´è¿žï¼‰
 mode: Rule
 
-# ÉèÖÃÈÕÖ¾Êä³ö¼¶±ð (Ä¬ÈÏ¼¶±ð£ºinfo£¬¼¶±ðÔ½¸ßÈÕÖ¾Êä³öÁ¿Ô½´ó£¬Ô½ÇãÏòÓÚµ÷ÊÔ)
-# ËÄ¸ö¼¶±ð£ºinfo / warning / error / debug
+# è®¾ç½®æ—¥å¿—è¾“å‡ºçº§åˆ« (é»˜è®¤çº§åˆ«ï¼šinfoï¼Œçº§åˆ«è¶Šé«˜æ—¥å¿—è¾“å‡ºé‡è¶Šå¤§ï¼Œè¶Šå€¾å‘äºŽè°ƒè¯•)
+# å››ä¸ªçº§åˆ«ï¼šinfo / warning / error / debug
 log-level: info
 
-# clash µÄ RESTful API
+# clash çš„ RESTful API
 external-controller: 127.0.0.1:9090
 
-# RESTful API µÄ¿ÚÁî (¿ÉÑ¡)
+# RESTful API çš„å£ä»¤ (å¯é€‰)
 secret: ""
 
 Proxy:
@@ -28,15 +28,15 @@ Proxy:
 Proxy Group:
 
 Rule:
-# Apple ·þÎñÓÅ»¯
-## ÆäËû·þÎñ
+# Apple æœåŠ¡ä¼˜åŒ–
+## å…¶ä»–æœåŠ¡
 - DOMAIN,gs.apple.com,Proxy
 - DOMAIN-SUFFIX,mzstatic.com,DIRECT
 - DOMAIN-SUFFIX,akadns.net,DIRECT
 - DOMAIN-SUFFIX,aaplimg.com,DIRECT
 - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 
-## Í¨ÓÃ²¿·Ö
+## é€šç”¨éƒ¨åˆ†
 - DOMAIN,itunes.apple.com,Proxy
 - DOMAIN,beta.itunes.apple.com,Proxy
 - DOMAIN-SUFFIX,apple.com,DIRECT
@@ -44,7 +44,7 @@ Rule:
 - DOMAIN-SUFFIX,icloud-content.com,DIRECT
 - DOMAIN,e.crashlytics.com,REJECT
 
-# ¹úÄÚÍøÕ¾
+# å›½å†…ç½‘ç«™
 - DOMAIN-SUFFIX,cn,DIRECT
 - DOMAIN-KEYWORD,-cn,DIRECT
 
@@ -167,7 +167,7 @@ Rule:
 - DOMAIN-SUFFIX,zhihu.com,DIRECT
 - DOMAIN-SUFFIX,zhimg.com,DIRECT
 
-# ¿¹ DNS ÎÛÈ¾ 
+# æŠ— DNS æ±¡æŸ“ 
 - DOMAIN-KEYWORD,amazon,Proxy
 - DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-KEYWORD,gmail,Proxy
@@ -183,7 +183,7 @@ Rule:
 - DOMAIN-SUFFIX,youtu.be,Proxy
 - DOMAIN-KEYWORD,whatsapp,Proxy
 
-# ³£¼û¹ã¸æÓòÃûÆÁ±Î
+# å¸¸è§å¹¿å‘ŠåŸŸåå±è”½
 - DOMAIN-KEYWORD,admarvel,REJECT
 - DOMAIN-KEYWORD,admaster,REJECT
 - DOMAIN-KEYWORD,adsage,REJECT
@@ -209,7 +209,7 @@ Rule:
 - DOMAIN-KEYWORD,zjtoolbar,REJECT
 - DOMAIN-SUFFIX,club,REJECT
 
-# ¹úÍâÍøÕ¾
+# å›½å¤–ç½‘ç«™
 - DOMAIN-SUFFIX,9to5mac.com,Proxy
 - DOMAIN-SUFFIX,abpchina.org,Proxy
 - DOMAIN-SUFFIX,adblockplus.org,Proxy
@@ -501,6 +501,6 @@ Rule:
 - IP-CIDR,17.0.0.0/8,DIRECT
 - IP-CIDR,100.64.0.0/10,DIRECT
 
-# ×îÖÕ¹æÔò
+# æœ€ç»ˆè§„åˆ™
 - GEOIP,CN,DIRECT
 - FINAL,,Proxy
