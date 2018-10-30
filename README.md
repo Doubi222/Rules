@@ -1,2 +1,2 @@
 # Rules
-Surge / Surfboard Rules 
+Surge / Surfboard / Clash Rules 
