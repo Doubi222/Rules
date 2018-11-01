@@ -85,6 +85,7 @@ Rule:
 - DOMAIN-SUFFIX,fir.im,DIRECT
 - DOMAIN-SUFFIX,frdic.com,DIRECT
 - DOMAIN-SUFFIX,g-cores.com,DIRECT
+- DOMAIN-KEYWORD,github,DIRECT
 - DOMAIN-SUFFIX,godic.net,DIRECT
 - DOMAIN-SUFFIX,gtimg.com,DIRECT
 - DOMAIN,cdn.hockeyapp.net,DIRECT
@@ -138,7 +139,6 @@ Rule:
 - DOMAIN-SUFFIX,soku.com,DIRECT
 - DOMAIN-SUFFIX,speedtest.net,DIRECT
 - DOMAIN-SUFFIX,sspai.com,DIRECT
-- DOMAIN-SUFFIX,steamcontent.com,DIRECT
 - DOMAIN-SUFFIX,suning.com,DIRECT
 - DOMAIN-SUFFIX,taobao.com,DIRECT
 - DOMAIN-SUFFIX,tenpay.com,DIRECT
@@ -304,7 +304,6 @@ Rule:
 - DOMAIN-SUFFIX,ggpht.com,Proxy
 - DOMAIN-SUFFIX,ghostnoteapp.com,Proxy
 - DOMAIN-SUFFIX,git.io,Proxy
-- DOMAIN-KEYWORD,github,Proxy
 - DOMAIN-SUFFIX,globalsign.com,Proxy
 - DOMAIN-SUFFIX,gmodules.com,Proxy
 - DOMAIN-SUFFIX,godaddy.com,Proxy
@@ -418,6 +417,7 @@ Rule:
 - DOMAIN-SUFFIX,startpage.com,Proxy
 - DOMAIN-SUFFIX,staticflickr.com,Proxy
 - DOMAIN-SUFFIX,steamcommunity.com,Proxy
+- DOMAIN-SUFFIX,steamcontent.com,Proxy
 - DOMAIN-SUFFIX,symauth.com,Proxy
 - DOMAIN-SUFFIX,symcb.com,Proxy
 - DOMAIN-SUFFIX,symcd.com,Proxy
@@ -492,6 +492,9 @@ Rule:
 - IP-CIDR,109.239.140.0/24,Proxy
 - IP-CIDR,149.154.160.0/20,Proxy
 - IP-CIDR,149.154.164.0/22,Proxy
+
+# Steam
+- IP-CIDR,203.80.144.0/20,Steam
 
 # LAN
 - DOMAIN-SUFFIX,local,DIRECT
