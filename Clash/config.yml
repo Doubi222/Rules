@@ -208,6 +208,16 @@ Rule:
 - DOMAIN-KEYWORD,zjtoolbar,REJECT
 - DOMAIN-SUFFIX,club,REJECT
 
+# Netflix
+- DOMAIN-SUFFIX,fast.com,Netflix
+- DOMAIN-SUFFIX,netflix.com,Netflix
+- DOMAIN-SUFFIX,netflix.net,Netflix
+- DOMAIN-SUFFIX,nflxext.com,Netflix
+- DOMAIN-SUFFIX,nflximg.com,Netflix
+- DOMAIN-SUFFIX,nflximg.net,Netflix
+- DOMAIN-SUFFIX,nflxso.net,Netflix
+- DOMAIN-SUFFIX,nflxvideo.net,Netflix
+
 # 国外网站
 - DOMAIN-SUFFIX,9to5mac.com,Proxy
 - DOMAIN-SUFFIX,abpchina.org,Proxy
