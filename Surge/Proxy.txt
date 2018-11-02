@@ -1,3 +1,0 @@
-DOMAIN-SUFFIX,dmm.co.jp,Proxy
-DOMAIN-SUFFIX,wikiwand.com,Proxy
-DOMAIN-SUFFIX,yuplay.ru,Proxy
