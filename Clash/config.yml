@@ -138,6 +138,7 @@ Rule:
 - DOMAIN-SUFFIX,sohu.com,DIRECT
 - DOMAIN-SUFFIX,soku.com,DIRECT
 - DOMAIN-SUFFIX,sspai.com,DIRECT
+- DOMAIN-SUFFIX,steamcontent.com,DIRECT
 - DOMAIN-SUFFIX,suning.com,DIRECT
 - DOMAIN-SUFFIX,taobao.com,DIRECT
 - DOMAIN-SUFFIX,tenpay.com,DIRECT
@@ -427,7 +428,6 @@ Rule:
 - DOMAIN-SUFFIX,startpage.com,Proxy
 - DOMAIN-SUFFIX,staticflickr.com,Proxy
 - DOMAIN-SUFFIX,steamcommunity.com,Proxy
-- DOMAIN-SUFFIX,steamcontent.com,Proxy
 - DOMAIN-SUFFIX,steampowered.com,Proxy
 - DOMAIN-SUFFIX,symauth.com,Proxy
 - DOMAIN-SUFFIX,symcb.com,Proxy
