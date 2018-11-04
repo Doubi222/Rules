@@ -523,6 +523,7 @@ Rule:
 
 # Steam
 - IP-CIDR,153.254.86.0/24,Steam
+- IP-CIDR,180.96.0.0/11,Steam
 - IP-CIDR,203.80.144.0/20,Steam
 
 # LAN
