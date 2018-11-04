@@ -497,6 +497,7 @@ Rule:
 - DOMAIN-SUFFIX,wp.com,Proxy
 - DOMAIN-SUFFIX,wsj.com,Proxy
 - DOMAIN-SUFFIX,wsj.net,Proxy
+- DOMAIN-SUFFIX,xboxlive.com,Proxy
 - DOMAIN-SUFFIX,xda-developers.com,Proxy
 - DOMAIN-SUFFIX,xeeno.com,Proxy
 - DOMAIN-SUFFIX,xiti.com,Proxy
