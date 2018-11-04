@@ -1,17 +1,17 @@
 # Netflix
-USER-AGENT,Argo*
+DOMAIN-KEYWORD,netflix
+DOMAIN-KEYWORD,nflx
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
+USER-AGENT,Argo*
+# Twitch
+DOMAIN-KEYWORD,twitch
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+USER-AGENT,Twitch*
 # YouTube
-DOMAIN-SUFFIX,youtube.com
+DOMAIN-KEYWORD,youtube,force-remote-dns
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtu.be,force-remote-dns
+DOMAIN-SUFFIX,ytimg.com
 USER-AGENT,*YouTube*
 USER-AGENT,com.google.ios.youtube*

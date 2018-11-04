@@ -44,10 +44,40 @@ Rule:
 - DOMAIN-SUFFIX,icloud-content.com,DIRECT
 - DOMAIN,e.crashlytics.com,REJECT
 
+# 常见广告域名屏蔽
+- DOMAIN-KEYWORD,admarvel,REJECT
+- DOMAIN-KEYWORD,admaster,REJECT
+- DOMAIN-KEYWORD,adsage,REJECT
+- DOMAIN-KEYWORD,adsmogo,REJECT
+- DOMAIN-KEYWORD,adsrvmedia,REJECT
+- DOMAIN-KEYWORD,adwords,REJECT
+- DOMAIN-KEYWORD,adservice,REJECT
+- DOMAIN-KEYWORD,domob,REJECT
+- DOMAIN-KEYWORD,duomeng,REJECT
+- DOMAIN-KEYWORD,dwtrack,REJECT
+- DOMAIN-KEYWORD,guanggao,REJECT
+- DOMAIN-KEYWORD,lianmeng,REJECT
+- DOMAIN-KEYWORD,omgmta,REJECT
+- DOMAIN-KEYWORD,openx,REJECT
+- DOMAIN-KEYWORD,partnerad,REJECT
+- DOMAIN-KEYWORD,pingfore,REJECT
+- DOMAIN-KEYWORD,supersonicads,REJECT
+- DOMAIN-KEYWORD,tracking,REJECT
+- DOMAIN-KEYWORD,uedas,REJECT
+- DOMAIN-KEYWORD,umeng,REJECT
+- DOMAIN-KEYWORD,usage,REJECT
+- DOMAIN-KEYWORD,wlmonitor,REJECT
+- DOMAIN-KEYWORD,zjtoolbar,REJECT
+- DOMAIN-SUFFIX,club,REJECT
+
+# 例外
+- DOMAIN-SUFFIX,ctyunapi.cn,Proxy
+- DOMAIN-SUFFIX,google.cn,Proxy
+- DOMAIN-SUFFIX,gstatic.cn,Proxy
+
 # 国内网站
 - DOMAIN-SUFFIX,cn,DIRECT
 - DOMAIN-KEYWORD,-cn,DIRECT
-
 - DOMAIN-SUFFIX,126.com,DIRECT
 - DOMAIN-SUFFIX,126.net,DIRECT
 - DOMAIN-SUFFIX,127.net,DIRECT
@@ -167,57 +197,43 @@ Rule:
 - DOMAIN-SUFFIX,zhihu.com,DIRECT
 - DOMAIN-SUFFIX,zhimg.com,DIRECT
 
+# Netflix
+- DOMAIN-KEYWORD,netflix,Video
+- DOMAIN-KEYWORD,nflx,Video
+- DOMAIN-SUFFIX,fast.com,Video
+
+# Twitch
+- DOMAIN-KEYWORD,twitch,Video
+- DOMAIN-SUFFIX,jtvnw.net,Video
+- DOMAIN-SUFFIX,ttvnw.net,Video
+
+# YouTube
+- DOMAIN-KEYWORD,youtube,Video
+- DOMAIN-SUFFIX,googlevideo.com,Video
+- DOMAIN-SUFFIX,youtu.be,Video
+- DOMAIN-SUFFIX,ytimg.com,Video
+
 # 抗 DNS 污染 
 - DOMAIN-KEYWORD,amazon,Proxy
-- DOMAIN-KEYWORD,google,Proxy
-- DOMAIN-KEYWORD,gmail,Proxy
-- DOMAIN-KEYWORD,youtube,Proxy
+- DOMAIN-KEYWORD,blogspot,Proxy
+- DOMAIN-KEYWORD,dropbox,Proxy
 - DOMAIN-KEYWORD,facebook,Proxy
+- DOMAIN-KEYWORD,gmail,Proxy
+- DOMAIN-KEYWORD,google,Proxy
+- DOMAIN-KEYWORD,instagram,Proxy
+- DOMAIN-KEYWORD,twitter,Proxy
+- DOMAIN-KEYWORD,whatsapp,Proxy
+- DOMAIN-SUFFIX,fb.com,Proxy
 - DOMAIN-SUFFIX,fb.me,Proxy
 - DOMAIN-SUFFIX,fbcdn.net,Proxy
-- DOMAIN-KEYWORD,twitter,Proxy
-- DOMAIN-KEYWORD,instagram,Proxy
-- DOMAIN-KEYWORD,dropbox,Proxy
+- DOMAIN-SUFFIX,gstatic.com,Proxy
+- DOMAIN-SUFFIX,scdn.co,Proxy
+- DOMAIN-SUFFIX,t.co,Proxy
+- DOMAIN-SUFFIX,telegra.ph,Proxy
+- DOMAIN-SUFFIX,telegram.org,Proxy
+- DOMAIN-SUFFIX,twimg.co,Proxy
 - DOMAIN-SUFFIX,twimg.com,Proxy
-- DOMAIN-KEYWORD,blogspot,Proxy
-- DOMAIN-SUFFIX,youtu.be,Proxy
-- DOMAIN-KEYWORD,whatsapp,Proxy
-
-# 常见广告域名屏蔽
-- DOMAIN-KEYWORD,admarvel,REJECT
-- DOMAIN-KEYWORD,admaster,REJECT
-- DOMAIN-KEYWORD,adsage,REJECT
-- DOMAIN-KEYWORD,adsmogo,REJECT
-- DOMAIN-KEYWORD,adsrvmedia,REJECT
-- DOMAIN-KEYWORD,adwords,REJECT
-- DOMAIN-KEYWORD,adservice,REJECT
-- DOMAIN-KEYWORD,domob,REJECT
-- DOMAIN-KEYWORD,duomeng,REJECT
-- DOMAIN-KEYWORD,dwtrack,REJECT
-- DOMAIN-KEYWORD,guanggao,REJECT
-- DOMAIN-KEYWORD,lianmeng,REJECT
-- DOMAIN-KEYWORD,omgmta,REJECT
-- DOMAIN-KEYWORD,openx,REJECT
-- DOMAIN-KEYWORD,partnerad,REJECT
-- DOMAIN-KEYWORD,pingfore,REJECT
-- DOMAIN-KEYWORD,supersonicads,REJECT
-- DOMAIN-KEYWORD,tracking,REJECT
-- DOMAIN-KEYWORD,uedas,REJECT
-- DOMAIN-KEYWORD,umeng,REJECT
-- DOMAIN-KEYWORD,usage,REJECT
-- DOMAIN-KEYWORD,wlmonitor,REJECT
-- DOMAIN-KEYWORD,zjtoolbar,REJECT
-- DOMAIN-SUFFIX,club,REJECT
-
-# Netflix
-- DOMAIN-SUFFIX,fast.com,Netflix
-- DOMAIN-SUFFIX,netflix.com,Netflix
-- DOMAIN-SUFFIX,netflix.net,Netflix
-- DOMAIN-SUFFIX,nflxext.com,Netflix
-- DOMAIN-SUFFIX,nflximg.com,Netflix
-- DOMAIN-SUFFIX,nflximg.net,Netflix
-- DOMAIN-SUFFIX,nflxso.net,Netflix
-- DOMAIN-SUFFIX,nflxvideo.net,Netflix
+- DOMAIN-SUFFIX,twitpic.com,Proxy
 
 # 国外网站
 - DOMAIN-SUFFIX,9to5mac.com,Proxy
@@ -323,7 +339,6 @@ Rule:
 - DOMAIN-SUFFIX,goodreaders.com,Proxy
 - DOMAIN-SUFFIX,goodreads.com,Proxy
 - DOMAIN-SUFFIX,gravatar.com,Proxy
-- DOMAIN-SUFFIX,gstatic.com,Proxy
 - DOMAIN-SUFFIX,gvt0.com,Proxy
 - DOMAIN-SUFFIX,hockeyapp.net,Proxy
 - DOMAIN-SUFFIX,hotmail.com,Proxy
@@ -345,7 +360,6 @@ Rule:
 - DOMAIN-SUFFIX,j.mp,Proxy
 - DOMAIN-SUFFIX,js.revsci.net,Proxy
 - DOMAIN-SUFFIX,jshint.com,Proxy
-- DOMAIN-SUFFIX,jtvnw.net,Proxy
 - DOMAIN-SUFFIX,justgetflux.com,Proxy
 - DOMAIN-SUFFIX,kat.cr,Proxy
 - DOMAIN-SUFFIX,klip.me,Proxy
@@ -451,7 +465,6 @@ Rule:
 - DOMAIN-SUFFIX,tumblr.com,Proxy
 - DOMAIN-SUFFIX,tweetdeck.com,Proxy
 - DOMAIN-SUFFIX,tweetmarker.net,Proxy
-- DOMAIN-SUFFIX,twitch.tv,Proxy
 - DOMAIN-SUFFIX,txmblr.com,Proxy
 - DOMAIN-SUFFIX,typekit.net,Proxy
 - DOMAIN-SUFFIX,ubertags.com,Proxy
@@ -491,18 +504,20 @@ Rule:
 - DOMAIN-SUFFIX,yimg.com,Proxy
 - DOMAIN-SUFFIX,ying.com,Proxy
 - DOMAIN-SUFFIX,yoyo.org,Proxy
-- DOMAIN-SUFFIX,ytimg.com,Proxy
 
 # Telegram
-- DOMAIN-SUFFIX,telegra.ph,Proxy
-- DOMAIN-SUFFIX,telegram.org,Proxy
-
-- IP-CIDR,91.108.56.0/22,Proxy
+- IP-CIDR,67.198.55.0/24,Proxy
 - IP-CIDR,91.108.4.0/22,Proxy
 - IP-CIDR,91.108.8.0/22,Proxy
+- IP-CIDR,91.108.12.0/22,Proxy
+- IP-CIDR,91.108.16.0/22,Proxy
+- IP-CIDR,91.108.56.0/22,Proxy
 - IP-CIDR,109.239.140.0/24,Proxy
 - IP-CIDR,149.154.160.0/20,Proxy
 - IP-CIDR,149.154.164.0/22,Proxy
+- IP-CIDR,149.154.168.0/22,Proxy
+- IP-CIDR,149.154.172.0/22,Proxy
+- IP-CIDR,205.172.60.0/22,Proxy
 
 # Steam
 - IP-CIDR,153.254.86.0/24,Steam
