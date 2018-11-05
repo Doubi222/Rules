@@ -20,9 +20,7 @@ DOMAIN-SUFFIX,twimg.co,force-remote-dns
 DOMAIN-SUFFIX,twimg.com,force-remote-dns
 DOMAIN-SUFFIX,twitpic.com,force-remote-dns
 # Slack
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-KEYWORD,slack
 USER-AGENT,Slack*
 # Spotify
 DOMAIN-SUFFIX,spotify.com

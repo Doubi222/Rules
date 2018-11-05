@@ -429,6 +429,7 @@ Rule:
 - DOMAIN-SUFFIX,sharethis.com,Proxy
 - DOMAIN-SUFFIX,shazam.com,Proxy
 - DOMAIN-SUFFIX,skype.com,Proxy
+- DOMAIN-KEYWORD,slack,Proxy
 - DOMAIN-SUFFIX,smartdnsProxy.com,Proxy
 - DOMAIN-SUFFIX,smartmailcloud.com,Proxy
 - DOMAIN-SUFFIX,sndcdn.com,Proxy
