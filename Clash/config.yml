@@ -213,6 +213,11 @@ Rule:
 - DOMAIN-SUFFIX,youtu.be,Video
 - DOMAIN-SUFFIX,ytimg.com,Video
 
+# Speedtest
+- DOMAIN-KEYWORD,speedtest,Speedtest
+- DOMAIN-KEYWORD,spttc1,Speedtest
+- DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+
 # 抗 DNS 污染 
 - DOMAIN-KEYWORD,amazon,Proxy
 - DOMAIN-KEYWORD,blogspot,Proxy
@@ -435,7 +440,6 @@ Rule:
 - DOMAIN-SUFFIX,sony.com,Proxy
 - DOMAIN-SUFFIX,soundcloud.com,Proxy
 - DOMAIN-SUFFIX,sourceforge.net,Proxy
-- DOMAIN-KEYWORD,speedtest,Speedtest
 - DOMAIN-SUFFIX,spotify.com,Proxy
 - DOMAIN-SUFFIX,squarespace.com,Proxy
 - DOMAIN-SUFFIX,sstatic.net,Proxy
