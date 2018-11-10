@@ -135,6 +135,7 @@ Rule:
 - DOMAIN-SUFFIX,lecloud.com,DIRECT
 - DOMAIN-SUFFIX,lemicp.com,DIRECT
 - DOMAIN-SUFFIX,luoo.net,DIRECT
+- DOMAIN-SUFFIX,maoyun.tv,DIRECT
 - DOMAIN-SUFFIX,meituan.com,DIRECT
 - DOMAIN-SUFFIX,meituan.net,DIRECT
 - DOMAIN-SUFFIX,mi.com,DIRECT
@@ -196,6 +197,10 @@ Rule:
 - DOMAIN-SUFFIX,zealer.com,DIRECT
 - DOMAIN-SUFFIX,zhihu.com,DIRECT
 - DOMAIN-SUFFIX,zhimg.com,DIRECT
+- DOMAIN-SUFFIX,zimuzu.tv,DIRECT
+- DOMAIN-SUFFIX,zmzapi.com,DIRECT
+- DOMAIN-SUFFIX,zmzapi.net,DIRECT
+- DOMAIN-SUFFIX,zmzfile.com,DIRECT
 
 # Netflix
 - DOMAIN-KEYWORD,netflix,Video
