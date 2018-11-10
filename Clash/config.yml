@@ -161,6 +161,8 @@ Rule:
 - DOMAIN-SUFFIX,qq.com,DIRECT
 - DOMAIN-SUFFIX,qqurl.com,DIRECT
 - DOMAIN-SUFFIX,rarbg.to,DIRECT
+- DOMAIN,rogsoft.ddnsto.com,DIRECT
+- DOMAIN,rogsoft.ngrok.wang,DIRECT
 - DOMAIN-SUFFIX,rr.tv,DIRECT
 - DOMAIN-SUFFIX,ruguoapp.com,DIRECT
 - DOMAIN-SUFFIX,segmentfault.com,DIRECT
