@@ -172,6 +172,7 @@ Rule:
 - DOMAIN-SUFFIX,sohu.com,DIRECT
 - DOMAIN-SUFFIX,soku.com,DIRECT
 - DOMAIN-SUFFIX,sspai.com,DIRECT
+- DOMAIN,static.anquan.org,DIRECT
 - DOMAIN-SUFFIX,suning.com,DIRECT
 - DOMAIN-SUFFIX,taobao.com,DIRECT
 - DOMAIN-SUFFIX,tenpay.com,DIRECT
