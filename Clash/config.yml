@@ -134,6 +134,7 @@ Rule:
 - DOMAIN-SUFFIX,le.com,DIRECT
 - DOMAIN-SUFFIX,lecloud.com,DIRECT
 - DOMAIN-SUFFIX,lemicp.com,DIRECT
+- DOMAIN-SUFFIX,live.com,DIRECT
 - DOMAIN-SUFFIX,luoo.net,DIRECT
 - DOMAIN-SUFFIX,maoyun.tv,DIRECT
 - DOMAIN-SUFFIX,meituan.com,DIRECT
@@ -185,6 +186,7 @@ Rule:
 - DOMAIN-SUFFIX,veryzhun.com,DIRECT
 - DOMAIN-SUFFIX,weather.com,DIRECT
 - DOMAIN-SUFFIX,weibo.com,DIRECT
+- DOMAIN-SUFFIX,xboxlive.com,DIRECT
 - DOMAIN-SUFFIX,xiami.com,DIRECT
 - DOMAIN-SUFFIX,xiami.net,DIRECT
 - DOMAIN-SUFFIX,xiaomicp.com,DIRECT
@@ -383,7 +385,6 @@ Rule:
 - DOMAIN-SUFFIX,linode.com,Proxy
 - DOMAIN-SUFFIX,lithium.com,Proxy
 - DOMAIN-SUFFIX,littlehj.com,Proxy
-- DOMAIN-SUFFIX,live.com,Proxy
 - DOMAIN-SUFFIX,live.net,Proxy
 - DOMAIN-SUFFIX,livefilestore.com,Proxy
 - DOMAIN-SUFFIX,llnwd.net,Proxy
@@ -513,7 +514,6 @@ Rule:
 - DOMAIN-SUFFIX,wp.com,Proxy
 - DOMAIN-SUFFIX,wsj.com,Proxy
 - DOMAIN-SUFFIX,wsj.net,Proxy
-- DOMAIN-SUFFIX,xboxlive.com,Proxy
 - DOMAIN-SUFFIX,xda-developers.com,Proxy
 - DOMAIN-SUFFIX,xeeno.com,Proxy
 - DOMAIN-SUFFIX,xiti.com,Proxy
