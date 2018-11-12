@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
+# Microsoft
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,outlook.com
 # Misc
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,paypal
