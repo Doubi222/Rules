@@ -25,3 +25,5 @@ USER-AGENT,Slack*
 # Spotify
 DOMAIN-SUFFIX,spotify.com
 USER-AGENT,*Spotify*
+# Misc
+DOMAIN-SUFFIX,xboxlive.com
