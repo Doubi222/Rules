@@ -140,8 +140,6 @@ Rule:
 - DOMAIN-SUFFIX,meituan.net,DIRECT
 - DOMAIN-SUFFIX,mi.com,DIRECT
 - DOMAIN-SUFFIX,miaopai.com,DIRECT
-- DOMAIN-SUFFIX,microsoft.com,DIRECT
-- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
 - DOMAIN-SUFFIX,miui.com,DIRECT
 - DOMAIN-SUFFIX,miwifi.com,DIRECT
 - DOMAIN-SUFFIX,mob.com,DIRECT
@@ -234,6 +232,7 @@ Rule:
 - DOMAIN-KEYWORD,gmail,Proxy
 - DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-KEYWORD,instagram,Proxy
+- DOMAIN-KEYWORD,microsoft,Proxy
 - DOMAIN-KEYWORD,twitter,Proxy
 - DOMAIN-KEYWORD,whatsapp,Proxy
 - DOMAIN-SUFFIX,fb.com,Proxy
@@ -396,7 +395,6 @@ Rule:
 - DOMAIN-SUFFIX,mega.co.nz,Proxy
 - DOMAIN-SUFFIX,mega.nz,Proxy
 - DOMAIN-SUFFIX,megaupload.com,Proxy
-- DOMAIN-SUFFIX,microsofttranslator.com,Proxy
 - DOMAIN-SUFFIX,mindnode.com,Proxy
 - DOMAIN-SUFFIX,mobile01.com,Proxy
 - DOMAIN-SUFFIX,modmyi.com,Proxy
