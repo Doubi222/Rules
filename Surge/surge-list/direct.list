@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,outlook.com
 # Misc
+DOMAIN-KEYWORD,boslife
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,speedtest
