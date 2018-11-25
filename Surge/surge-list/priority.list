@@ -1,5 +1,3 @@
 DOMAIN-SUFFIX,ctyunapi.cn,Proxy
 DOMAIN-SUFFIX,google.cn,Proxy
 DOMAIN-SUFFIX,gstatic.cn,Proxy
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
