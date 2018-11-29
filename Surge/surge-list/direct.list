@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,outlook.com
 # Router
 DOMAIN-SUFFIX,managerouter.ink
