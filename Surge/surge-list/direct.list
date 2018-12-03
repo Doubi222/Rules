@@ -27,10 +27,11 @@ DOMAIN-SUFFIX,managerouter.ink
 DOMAIN,rogsoft.ddnsto.com
 DOMAIN,rogsoft.ngrok.wang
 # Misc
-DOMAIN-KEYWORD,boslife
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,boslife.cc
+DOMAIN-SUFFIX,f3b.work
 DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,maoyun.tv
 DOMAIN-SUFFIX,offgamers.com
