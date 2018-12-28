@@ -1,1 +1,1 @@
-*.wikipedia.org, cn.bing.com, m.client.10010.com, u8.hujiang.com, www.google.com.hk, www.javbus.com
+*.wikipedia.org, cn.bing.com, u8.hujiang.com, www.google.com.hk, www.javbus.com
