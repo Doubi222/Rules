@@ -12,6 +12,6 @@ USER-AGENT,Twitch*
 DOMAIN-KEYWORD,youtube,force-remote-dns
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be,force-remote-dns
-DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 USER-AGENT,*YouTube*
 USER-AGENT,com.google.ios.youtube*
