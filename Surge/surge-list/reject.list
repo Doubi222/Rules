@@ -933,7 +933,7 @@ DOMAIN-SUFFIX,guanjia.baidu.com
 DOMAIN-SUFFIX,hc.baidu.com
 DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.com
-DOMAIN-SUFFIX,hpd.baidu.com
+#DOMAIN-SUFFIX,hpd.baidu.com
 DOMAIN-SUFFIX,idm-su.baidu.com
 DOMAIN-SUFFIX,idm.bce.baidu.com
 DOMAIN-SUFFIX,iebar.baidu.com
