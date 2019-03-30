@@ -2,7 +2,6 @@ DOMAIN-KEYWORD,blogspot,force-remote-dns
 DOMAIN-KEYWORD,dropbox,force-remote-dns
 DOMAIN-KEYWORD,facebook,force-remote-dns
 DOMAIN-KEYWORD,gmail,force-remote-dns
-DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,instagram,force-remote-dns
 DOMAIN-KEYWORD,oculus,force-remote-dns
 DOMAIN-KEYWORD,twitter,force-remote-dns
@@ -11,7 +10,6 @@ DOMAIN-SUFFIX,bing.com,force-remote-dns
 DOMAIN-SUFFIX,fb.com,force-remote-dns
 DOMAIN-SUFFIX,fb.me,force-remote-dns
 DOMAIN-SUFFIX,fbcdn.net,force-remote-dns
-DOMAIN-SUFFIX,gstatic.com,force-remote-dns
 DOMAIN-SUFFIX,hockeyapp.net,force-remote-dns
 DOMAIN-SUFFIX,scdn.co,force-remote-dns
 DOMAIN-SUFFIX,t.co,force-remote-dns
