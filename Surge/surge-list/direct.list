@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,qq.com
@@ -16,19 +19,10 @@ DOMAIN-SUFFIX,youku.com
 # Router
 DOMAIN-SUFFIX,managerouter.ink
 DOMAIN,rogsoft.ddnsto.com
-DOMAIN,rogsoft.ngrok.wang
 # Misc
 DOMAIN-KEYWORD,paypal
-DOMAIN-SUFFIX,doist.com
+DOMAIN-SUFFIX,boslife.info
 DOMAIN-SUFFIX,f3b.work
-DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,moke.com
-DOMAIN-SUFFIX,maoyun.tv
 DOMAIN-SUFFIX,offgamers.com
 DOMAIN-SUFFIX,shasso.com
-DOMAIN-SUFFIX,todoist.com
-DOMAIN-SUFFIX,trakt.tv
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zmzapi.net
-DOMAIN-SUFFIX,zmzfile.com
