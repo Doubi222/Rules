@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
 # Router
 DOMAIN-SUFFIX,managerouter.ink
+DOMAIN,koolshare.ngrok.wang
 DOMAIN,rogsoft.ddnsto.com
 # Misc
 DOMAIN-KEYWORD,paypal
