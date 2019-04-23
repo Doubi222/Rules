@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,blogspot,force-remote-dns
 DOMAIN-KEYWORD,dropbox,force-remote-dns
 DOMAIN-KEYWORD,facebook,force-remote-dns
 DOMAIN-KEYWORD,github,force-remote-dns
@@ -6,6 +7,7 @@ DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,gstatic,force-remote-dns
 DOMAIN-KEYWORD,instagram,force-remote-dns
 DOMAIN-KEYWORD,twitter,force-remote-dns
+DOMAIN-KEYWORD,whatsapp,force-remote-dns
 DOMAIN-SUFFIX,amazonaws.com,force-remote-dns
 DOMAIN-SUFFIX,awsstatic.com,force-remote-dns
 DOMAIN-SUFFIX,bing.com,force-remote-dns
