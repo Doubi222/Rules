@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,ttvnw.net
 USER-AGENT,Twitch*
 # YouTube
 DOMAIN-KEYWORD,youtube,force-remote-dns
-DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
 DOMAIN-SUFFIX,youtu.be,force-remote-dns
 DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 USER-AGENT,*YouTube*
