@@ -1,1 +1,1 @@
-*.wikipedia.org, *.zhihu.com, cn.bing.com, u8.hujiang.com, www.google.com.hk
+*.wikipedia.org, *.zhihu.com, cn.bing.com, tieba.baidu.com, u8.hujiang.com, www.google.com.hk
