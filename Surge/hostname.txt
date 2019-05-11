@@ -1,1 +1,1 @@
-api.zhihu.com, app.bilibili.com, *.wikipedia.org, cn.bing.com, jump2.bdimg.com, mp.weixin.qq.com, tieba.baidu.com, u8.hujiang.com, www.google.com.hk, www.zhihu.com
+api.zhihu.com, app.bilibili.com, api.bilibili.com, *.wikipedia.org, cn.bing.com, jump2.bdimg.com, mp.weixin.qq.com, tieba.baidu.com, u8.hujiang.com, www.google.com.hk, www.zhihu.com

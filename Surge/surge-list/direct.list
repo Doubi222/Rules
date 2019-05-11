@@ -1,28 +1,6 @@
-# China Apps
-USER-AGENT,MApi*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-# BAT
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,aliyun
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,youku.com
-# Router
-DOMAIN-SUFFIX,managerouter.ink
 DOMAIN,rogsoft.ddnsto.com
-# Misc
-DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,managerouter.ink
 DOMAIN-SUFFIX,boslife.info
 DOMAIN-SUFFIX,f3b.work
-DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,offgamers.com
 DOMAIN-SUFFIX,shasso.com
